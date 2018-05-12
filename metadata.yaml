@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25637
     wikipedia: https://en.wikipedia.org/wiki/Brantz_Mayer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37887#Mexico-Aztec-Spanish-and-Republican-Vol.-1-of-2California
 gutenberg_issued: '2011-10-31'
 gutenberg_type: Text
 identifiers:
